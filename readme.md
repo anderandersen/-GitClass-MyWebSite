@@ -1,5 +1,5 @@
 ## Project Description
-Wow. Git command are the least user friendly of any tool I've ever seen.
+Wow. Git command are the least user friendly of any tool I've ever seen. And also I hate macs.
 
 * [live example](https://learning-zone.github.io/website-templates/3-col-portfolio)
 
